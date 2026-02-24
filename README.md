@@ -52,7 +52,9 @@ This system groups customers automatically without labeled data using Unsupervis
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
-'''
+
+```
+
 ##Applications
 
 Marketing segmentation
